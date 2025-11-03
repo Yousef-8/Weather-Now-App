@@ -1,13 +1,13 @@
-#**City Weather and Air Quality application **
+# ** City Weather and Air Quality application **
 A web page built by using Node.js and Express. It displays real-time air quality and weather data for any city worldwide. Multiple REST APIs are used to fetch such live environmental data.
 
 
-##**Features**:
+## **Features**:
 Current Weather — real time temperature and wind speed 
 Air Quality — PM10 and PM2.5 levels
 Dynamic Background — city image fetched from Unsplash API Responsive Design — centered and user-friendly interface
 
-##**Technologies**:
+## **Technologies**:
 
 - **Node.js** — backend runtime
 - **Express.js** — server framework
@@ -16,7 +16,7 @@ Dynamic Background — city image fetched from Unsplash API Responsive Design �
 - **HTML and CSS** — for User Interface design
 
 
-##**APIs Used**:
+## **APIs Used**:
 - Open-Meteo Geocoding API:
 For fetching geographical data(latitude and longitude).
 https://open-meteo.com/en/docs/geocoding-api
@@ -37,7 +37,7 @@ https://unsplash.com/documentation
 
 
 
-##**Instructions**:
+## **Instructions**:
 1.)Clone the repository:
 
 git clone https://github.com/Yousef-8/Weather_Now_App
@@ -53,14 +53,10 @@ nodemon index.js
 Then open your browser and type  http://localhost:3000
 
 
-##**Note**:
+## **Note**:
 Make sure you register on 
 Unsplash Developers(https://unsplash.com) and gain an access key. Store the access key in UNSPLASH_ACCESS_KEY variable in the index.js file.
 
 
-##**Author*
-
-Your Name
-📧 Email: your@email.com
-
-🌐 GitHub: @yourusername
+## **Author*
+Yousef
