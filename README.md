@@ -1,3 +1,6 @@
+
+![Uploading s1.png…]()
+
 #  City Weather and Air Quality application
 A web page built by using Node.js and Express. It displays real-time air quality and weather data for any city worldwide. Multiple REST APIs are used to fetch such live environmental data.
 
