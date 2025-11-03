@@ -40,18 +40,25 @@ https://unsplash.com/documentation
 ## **Instructions**:
 **1.)Clone the repository:**
 
-```git clone https://github.com/Yousef-8/Weather_Now_App``` 
+```
+git clone https://github.com/Yousef-8/Weather_Now_App
+``` 
 
-```cd Weather_Now_App```
+```
+cd Weather_Now_App
+```
 
 **2.)Install dependencies:**
 
-```bash
+```
  npm install
+```
 
 **3.)Run the server:**
 
-```nodemon index.js```
+```
+nodemon index.js
+```
 Then open your browser and type  http://localhost:3000
 
 
