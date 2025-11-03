@@ -41,7 +41,7 @@ https://unsplash.com/documentation
 **1.) Clone the repository:**
 
 ```
-git clone https://github.com/Yousef-8/Weather_Now_App
+git clone https://github.com/Yousef-8/Weather-Now-App
 ``` 
 
 ```
