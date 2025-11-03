@@ -45,7 +45,7 @@ git clone https://github.com/Yousef-8/Weather-Now-App
 ``` 
 
 ```
-cd Weather_Now_App
+cd Weather-Now-App
 ```
 
 **2.) Install dependencies:**
