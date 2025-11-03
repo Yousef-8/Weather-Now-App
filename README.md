@@ -1,5 +1,5 @@
 
-![Alt Text]([path_or_url_to_image](https://github.com/Yousef-8/Weather-Now-App/blob/main/London.png))
+![Alt Text](https://github.com/Yousef-8/Weather-Now-App/blob/main/London.png)
 
 
 
