@@ -1,4 +1,4 @@
-# ** City Weather and Air Quality application **
+#  City Weather and Air Quality application
 A web page built by using Node.js and Express. It displays real-time air quality and weather data for any city worldwide. Multiple REST APIs are used to fetch such live environmental data.
 
 
@@ -38,16 +38,16 @@ https://unsplash.com/documentation
 
 
 ## **Instructions**:
-1.)Clone the repository:
+1.)**Clone the repository:**
 
 git clone https://github.com/Yousef-8/Weather_Now_App
 cd Weather_Now_App
 
-2.)Install dependencies:
+2.)**Install dependencies:**
 
 npm install
 
-3.)Run the server:
+3.)**Run the server:**
 
 nodemon index.js
 Then open your browser and type  http://localhost:3000
